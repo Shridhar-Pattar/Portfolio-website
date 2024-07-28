@@ -616,7 +616,7 @@ body {
     }
 
     .part4 {
-        margin-top: 1050px;
+        margin-top: 1080px;
     }
 
     .content4 {
@@ -679,13 +679,13 @@ body {
         margin-top: 500px;
         font-size: 50px;
         width: 500px;
-        margin-left: 1100px;
+        margin-left: 1000px;
     }
 
     .part5 h1 {
         font-size: 75px;
         width: 500px;
-        margin-left: 1000px;
+        margin-left: 900px;
     }
 
     .bottom {
@@ -695,7 +695,7 @@ body {
 
     .btn {
         margin-top: 50px;
-        margin-left: 870px;
+        margin-left: 770px;
         width: 340px;
         font-size: 30px;
     }
@@ -710,6 +710,7 @@ body {
         display: flex;
         gap: 10px;
         justify-content: center;
+
     }
 
     .maili img {
@@ -719,7 +720,7 @@ body {
     }
 
     .maili .pic1 {
-        margin-left: 900px;
+        margin-left: 800px;
     }
 
     .bottom .list a {
