@@ -559,7 +559,7 @@ body {
 
     .part3 .exp {
         font-size: 65px;
-        margin-top: 0px;
+        margin-top: 90px;
         margin-left: 400px;
         width: 400px;
         text-align: center;
@@ -597,9 +597,7 @@ body {
         width: 600px;
     }
 
-    .part4 {
-        margin-top: 50px;
-    }
+
 
     .part32 .skillname {
         font-size: 60px;
@@ -618,7 +616,7 @@ body {
     }
 
     .part4 {
-        margin-top: 900px;
+        margin-top: 1050px;
     }
 
     .content4 {
@@ -669,7 +667,7 @@ body {
     }
 
     .part5 {
-        margin-top: 2000px;
+        margin-top: 2250px;
     }
 
     .footer {
